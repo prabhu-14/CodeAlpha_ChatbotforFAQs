@@ -1,0 +1,31 @@
+Question,Answer
+What is Python?,Python is a high-level programming language used for web development data science automation and artificial intelligence.
+Who developed Python?,Python was developed by Guido van Rossum.
+When was Python created?,Python was first released in 1991.
+What is AI?,Artificial Intelligence is the simulation of human intelligence by machines.
+What is Machine Learning?,Machine Learning is a branch of AI that enables computers to learn from data without explicit programming.
+What is Deep Learning?,Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers.
+What is NLP?,Natural Language Processing is a branch of AI that enables computers to understand process and generate human language.
+What is Data Science?,Data Science is the process of extracting useful insights from structured and unstructured data.
+What is a chatbot?,A chatbot is a software application that interacts with users through text or voice.
+What is cosine similarity?,Cosine similarity measures the similarity between two text vectors by calculating the cosine of the angle between them.
+What is TF-IDF?,TF-IDF stands for Term Frequency-Inverse Document Frequency and is used to convert text into numerical vectors.
+What is NLTK?,NLTK is a Python library used for Natural Language Processing tasks.
+What is SpaCy?,SpaCy is an open-source Python library for advanced Natural Language Processing.
+What is tokenization?,Tokenization is the process of splitting text into individual words or tokens.
+What are stopwords?,Stopwords are common words such as the and is that are usually removed during text preprocessing.
+Why is text preprocessing important?,Text preprocessing improves the quality of text data before analysis or machine learning.
+What is stemming?,Stemming reduces words to their root form by removing suffixes.
+What is lemmatization?,Lemmatization converts words into their meaningful base form using vocabulary and grammar.
+What is supervised learning?,Supervised learning is a machine learning approach where models are trained using labeled data.
+What is unsupervised learning?,Unsupervised learning finds patterns in data without labeled outputs.
+What is reinforcement learning?,Reinforcement learning trains an agent to make decisions by rewarding desired actions.
+What is a dataset?,A dataset is a collection of related data used for analysis or training machine learning models.
+What is Pandas?,Pandas is a Python library used for data manipulation and analysis.
+What is NumPy?,NumPy is a Python library used for numerical computing and array operations.
+What is Scikit-learn?,Scikit-learn is a Python library used for machine learning algorithms and data preprocessing.
+What is a feature?,A feature is an individual measurable property or characteristic used as input for a machine learning model.
+What is a model?,A model is a mathematical representation that learns patterns from data to make predictions.
+What is overfitting?,Overfitting occurs when a model learns the training data too well and performs poorly on new data.
+What is accuracy?,Accuracy is the percentage of correctly predicted results out of the total predictions.
+How does a FAQ chatbot work?,A FAQ chatbot preprocesses user questions converts them into vectors compares them with stored FAQs using cosine similarity and returns the most relevant answer.

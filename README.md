@@ -67,8 +67,4 @@ Display Answer
 
 ## 🎯 Project Objective
 
-The goal of this project is to develop a simple FAQ chatbot capable of understanding user questions and retrieving the most relevant answer using Natural Language Processing techniques.
-
----
-
-## ⭐ If you found this project helpful, consider giving it a star on GitHub!
+The goal of this project is to develop a simple FAQ chatbot capable of understanding user questions and retrieving the most relevant answer using Natural Language Processing techniques
